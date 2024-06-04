@@ -43,7 +43,7 @@ next.addEventListener("click", (e) => {
     if(jelzes){
         jelzes = false;
         kerdes_mehet = true;
-        window.alert("Már nem fog tudni a szöveghez visszetérni!");
+        window.alert("Már nem fog tudni a szöveghez visszatérni!");
     }
 })
 let kesz = document.getElementById("kesz");
@@ -92,7 +92,7 @@ kesz.addEventListener("click", (e) => {
     if(kerdes_jelzes){
         kerdes_jelzes = false;
         ellenorzes = true;
-        window.alert("Már nem fog tudn a kérdésekheyóz visszatérni!");
+        window.alert("Már nem fog tudni a kérdésekhez visszatérni!");
     }
 })
 let kerdes = document.getElementById("kerdes1");
