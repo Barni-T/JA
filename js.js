@@ -1,4 +1,4 @@
-let nev = window.prompt("Hogy hívnak?");
+const nev = window.prompt("Hogy hívnak?");
 let navbar_li = document.getElementById("navbar_li");
 let navbar_content = document.getElementById("navbar_content");
 let klikk = true;
