@@ -1,4 +1,4 @@
-console.log("Készítette: Tóth Barnabás Zsolt);
+console.log("Készítette: Tóth Barnabás Zsolt");
 const nev = window.prompt("Hogy hívnak?");
 let navbar_li = document.getElementById("navbar_li");
 let navbar_content = document.getElementById("navbar_content");
